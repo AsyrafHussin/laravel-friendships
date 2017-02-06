@@ -298,8 +298,9 @@ trait Friendable
      *
      * @return \Illuminate\Database\Eloquent\Collection
      */
-    public function getFriends($perPage = 0, $groupSlug = '')
+    public function getFriends($perPage = 0, $groupSlug = '', $wantsBuilder = false)
     {
+        if ($wantsBuilder) return $this->getFriendsQueryBuilder($groupSlug);
         return $this->getOrPaginate($this->getFriendsQueryBuilder($groupSlug), $perPage);
     }
     
