@@ -1,0 +1,94 @@
+Searching 8 files for "namespace Hootlex"
+
+/Users/AsyrafHussin/Desktop/Projek2017/Laravel-package/laravel-friendships/src/FriendshipsServiceProvider.php:
+    1  <?php
+    2  
+    3: namespace Hootlex\Friendships;
+    4  
+    5  use Illuminate\Support\ServiceProvider;
+
+/Users/AsyrafHussin/Desktop/Projek2017/Laravel-package/laravel-friendships/src/Models/FriendFriendshipGroups.php:
+    1  <?php
+    2  
+    3: namespace Hootlex\Friendships\Models;
+    4  
+    5  use Hootlex\Friendships\Status;
+
+/Users/AsyrafHussin/Desktop/Projek2017/Laravel-package/laravel-friendships/src/Models/Friendship.php:
+    1  <?php
+    2  
+    3: namespace Hootlex\Friendships\Models;
+    4  
+    5  use Hootlex\Friendships\Status;
+
+/Users/AsyrafHussin/Desktop/Projek2017/Laravel-package/laravel-friendships/src/Status.php:
+    1  <?php
+    2  
+    3: namespace Hootlex\Friendships;
+    4  
+    5  /**
+
+/Users/AsyrafHussin/Desktop/Projek2017/Laravel-package/laravel-friendships/src/Traits/Friendable.php:
+    1  <?php
+    2  
+    3: namespace Hootlex\Friendships\Traits;
+    4  
+    5  use Hootlex\Friendships\Models\Friendship;
+
+5 matches across 5 files
+
+
+Searching 8 files for "use Hootlex"
+
+/Users/AsyrafHussin/Desktop/Projek2017/Laravel-package/laravel-friendships/src/Models/FriendFriendshipGroups.php:
+    3  namespace AsyrafHussin\Friendships\Models;
+    4  
+    5: use Hootlex\Friendships\Status;
+    6  use Illuminate\Database\Eloquent\Model;
+    7  
+
+/Users/AsyrafHussin/Desktop/Projek2017/Laravel-package/laravel-friendships/src/Models/Friendship.php:
+    3  namespace AsyrafHussin\Friendships\Models;
+    4  
+    5: use Hootlex\Friendships\Status;
+    6  use Illuminate\Database\Eloquent\Model;
+    7  
+
+/Users/AsyrafHussin/Desktop/Projek2017/Laravel-package/laravel-friendships/src/Traits/Friendable.php:
+    3  namespace AsyrafHussin\Friendships\Traits;
+    4  
+    5: use Hootlex\Friendships\Models\Friendship;
+    6: use Hootlex\Friendships\Models\FriendFriendshipGroups;
+    7: use Hootlex\Friendships\Status;
+    8  use Illuminate\Database\Eloquent\Model;
+    9  use Event;
+
+5 matches across 3 files
+
+
+Searching 8 files for "use Hootlex"
+
+/Users/AsyrafHussin/Desktop/Projek2017/Laravel-package/laravel-friendships/src/Models/FriendFriendshipGroups.php:
+    3  namespace AsyrafHussin\Friendships\Models;
+    4  
+    5: use Hootlex\Friendships\Status;
+    6  use Illuminate\Database\Eloquent\Model;
+    7  
+
+/Users/AsyrafHussin/Desktop/Projek2017/Laravel-package/laravel-friendships/src/Models/Friendship.php:
+    3  namespace AsyrafHussin\Friendships\Models;
+    4  
+    5: use Hootlex\Friendships\Status;
+    6  use Illuminate\Database\Eloquent\Model;
+    7  
+
+/Users/AsyrafHussin/Desktop/Projek2017/Laravel-package/laravel-friendships/src/Traits/Friendable.php:
+    3  namespace AsyrafHussin\Friendships\Traits;
+    4  
+    5: use Hootlex\Friendships\Models\Friendship;
+    6: use Hootlex\Friendships\Models\FriendFriendshipGroups;
+    7: use Hootlex\Friendships\Status;
+    8  use Illuminate\Database\Eloquent\Model;
+    9  use Event;
+
+5 matches across 3 files

@@ -1,10 +1,10 @@
 <?php
 
-namespace Hootlex\Friendships\Traits;
+namespace AsyrafHussin\Friendships\Traits;
 
-use Hootlex\Friendships\Models\Friendship;
-use Hootlex\Friendships\Models\FriendFriendshipGroups;
-use Hootlex\Friendships\Status;
+use AsyrafHussin\Friendships\Models\Friendship;
+use AsyrafHussin\Friendships\Models\FriendFriendshipGroups;
+use AsyrafHussin\Friendships\Status;
 use Illuminate\Database\Eloquent\Model;
 use Event;
 

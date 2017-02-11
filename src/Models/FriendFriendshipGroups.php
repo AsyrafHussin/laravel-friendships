@@ -1,8 +1,8 @@
 <?php
 
-namespace Hootlex\Friendships\Models;
+namespace AsyrafHussin\Friendships\Models;
 
-use Hootlex\Friendships\Status;
+use AsyrafHussin\Friendships\Status;
 use Illuminate\Database\Eloquent\Model;
 
 /**

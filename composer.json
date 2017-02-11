@@ -1,12 +1,16 @@
 {
-    "name": "hootlex/laravel-friendships",
-    "description": "This package gives Eloquent models the ability to manage their friendships.",
+    "name": "asyrafhussin/laravel-friendships",
+    "description": "This package gives Eloquent models the ability to manage their friendships. Fork from https://github.com/hootlex/laravel-friendships",
     "keywords": ["laravel", "friendships", "friend-system", "friends", "eloquent"],
     "license": "MIT",
     "authors": [
         {
             "name": "Hootlex",
             "email": "hootlex@icloud.com"
+        },
+        {
+            "name": "Asyraf Hussin",
+            "email": "asyrafhussin4@gmail.com"
         }
     ],
     "autoload-dev": {
@@ -30,7 +34,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hootlex\\Friendships\\": "src/"
+            "AsyrafHussin\\Friendships\\": "src/"
         }
     },
     "minimum-stability": "stable"
